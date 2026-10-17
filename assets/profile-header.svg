@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">Nicole Kimura</title>
+<desc id="desc">Estudante de Cibersegurança. Foco em Engenharia de Dados e Inteligência Artificial. Banner grafite com detalhes em azul e verde.</desc>
+<defs>
+<linearGradient id="bg"><stop stop-color="#111820"/><stop offset="1" stop-color="#192733"/></linearGradient>
+<pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8499ab" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="300" rx="10" fill="url(#bg)"/>
+<rect x="800" width="400" height="300" fill="url(#grid)"/>
+<rect x="0" y="0" width="5" height="300" fill="#70a6d7"/>
+<text x="56" y="58" fill="#91a6b8" font-family="Segoe UI,Arial,sans-serif" font-size="12" font-weight="600" letter-spacing="3">DADOS / INTELIGÊNCIA ARTIFICIAL / CLOUD</text>
+<text x="52" y="144" fill="#edf2f6" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="600" letter-spacing="-2">Nicole Kimura</text>
+<text x="56" y="193" fill="#a8bdcf" font-family="Segoe UI,Arial,sans-serif" font-size="22">Em formação para atuar com engenharia de dados e IA.</text>
+<text x="56" y="250" fill="#8197a9" font-family="Segoe UI,Arial,sans-serif" font-size="15">Cibersegurança · PUCPR</text>
+<g fill="none" stroke="#70a6d7" stroke-width="1.5">
+<path d="M940 76H1015V147H1100V222H1150" stroke-opacity=".5"/>
+<path d="M900 147H1015V222H1060" stroke-opacity=".25"/>
+<rect x="916" y="60" width="48" height="32" rx="4" fill="#192733"/>
+<rect x="991" y="131" width="48" height="32" rx="4" fill="#192733"/>
+<rect x="1076" y="206" width="48" height="32" rx="4" fill="#192733"/>
+</g>
+<circle cx="940" cy="76" r="4" fill="#70a6d7"/>
+<circle cx="1015" cy="147" r="4" fill="#70a6d7"/>
+<circle cx="1100" cy="222" r="4" fill="#75b8a4"/>
+</svg>
