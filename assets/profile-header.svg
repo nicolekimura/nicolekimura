@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">Nicole Kimura</title>
+<desc id="desc">Em formação. Engenharia de Dados e Inteligência Artificial. Banner em roxo, rosa e azul com formas conectadas.</desc>
+<defs>
+<linearGradient id="bg" x2="1" y2="1"><stop stop-color="#17102e"/><stop offset=".55" stop-color="#30205f"/><stop offset="1" stop-color="#45206c"/></linearGradient>
+<linearGradient id="accent"><stop stop-color="#c4b5fd"/><stop offset=".55" stop-color="#f0abfc"/><stop offset="1" stop-color="#67e8f9"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#a855f7" stop-opacity=".5"/><stop offset="1" stop-color="#a855f7" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#d8b4fe" opacity=".15"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/>
+<rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<ellipse cx="1015" cy="140" rx="310" ry="250" fill="url(#glow)"/>
+<path d="M0 312 Q300 260 600 312 T1200 285 V340 H0Z" fill="#c084fc" opacity=".08"/>
+<rect x="56" y="48" width="231" height="32" rx="16" fill="#a78bfa" fill-opacity=".13" stroke="#c4b5fd" stroke-opacity=".4"/>
+<circle cx="75" cy="64" r="4" fill="#e9a8ff"/>
+<text x="91" y="69" fill="#ede9fe" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="2">DADOS · IA · CLOUD</text>
+<text x="52" y="164" fill="#faf5ff" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="-2">Nicole Kimura<tspan fill="#d8b4fe">.</tspan></text>
+<rect x="56" y="189" width="88" height="4" rx="2" fill="url(#accent)"/>
+<text x="56" y="234" fill="#e9d5ff" font-family="Segoe UI,Arial,sans-serif" font-size="23">Engenharia de Dados &amp; Inteligência Artificial</text>
+<text x="56" y="274" fill="#bbb1d8" font-family="Segoe UI,Arial,sans-serif" font-size="16">Em formação · Cibersegurança na PUCPR</text>
+<g fill="none" stroke="#c4b5fd">
+<ellipse cx="991" cy="164" rx="111" ry="111" stroke-opacity=".25"/>
+<ellipse cx="991" cy="164" rx="146" ry="61" transform="rotate(-35 991 164)" stroke-opacity=".35"/>
+<ellipse cx="991" cy="164" rx="146" ry="61" transform="rotate(35 991 164)" stroke-opacity=".25"/>
+<path d="M916 100L1064 125L1017 244L916 100L898 209L1064 125" stroke-opacity=".3"/>
+</g>
+<circle cx="991" cy="164" r="41" fill="#30205f" stroke="#d8b4fe" stroke-width="1.5"/>
+<text x="991" y="174" text-anchor="middle" fill="#f5d0fe" font-family="Segoe UI,Arial,sans-serif" font-size="27" font-weight="600">nk</text>
+<circle cx="916" cy="100" r="9" fill="#e9a8ff"/>
+<circle cx="1064" cy="125" r="7" fill="#67e8f9"/>
+<circle cx="1017" cy="244" r="8" fill="#c4b5fd"/>
+<circle cx="898" cy="209" r="5" fill="#e9a8ff"/>
+</svg>
